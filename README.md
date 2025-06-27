@@ -6,6 +6,17 @@ Generate beautiful PDF resumes with Python using custom fonts and ReportLab – 
 
 ---
 
+## ⚠️ Disclaimer
+> **This project is not a CV generator in the AI sense — it's technically a customizable PDF layout tool.**  
+> The "CV" label is mostly for convenience and discoverability.
+
+- It formats content **exactly where you tell it**, with full control over text, font, spacing, and image placement.
+- It comes with a **pre-set left margin** optimized for CV layouts, but you can easily tweak or remove it by editing a line (see: `left_margin_cm` in the code).
+- Think of it as a **manual layout engine** — perfect for fast, repeatable updates (e.g., adding sections, changing text), not for writing CVs from scratch.
+
+💡 Tip: If you're not comfortable writing Python or ReportLab code, you can always ask an AI assistant to edit or generate the content using this notebook as a base.
+
+
 ## 📁 Setup Instructions
 
 To use this notebook, follow these steps:
