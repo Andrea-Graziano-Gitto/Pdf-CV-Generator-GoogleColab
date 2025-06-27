@@ -92,6 +92,17 @@ This lets the LLM generate your full resume from simple instructions.
 
 This project is licensed under the MIT License.
 
+### Third-party libraries
+
+This project uses third-party libraries such as ReportLab and Pillow, which have their own licenses. Please refer to their official documentation for licensing details.
+
+### Fonts
+
+Fonts used in this project (e.g., Montserrat, Roboto) are provided by third parties and are subject to their respective licenses (commonly the SIL Open Font License). Fonts are **not** included in this repository and must be used in compliance with their licenses.
+
+By using this project, you agree to respect the licenses of all third-party components.
+
+
 ---
 
 Made by [Andrea Graziano Gitto](https://github.com/Andrea-Graziano-Gitto)
